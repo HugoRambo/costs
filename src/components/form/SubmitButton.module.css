@@ -1,0 +1,13 @@
+.btn{
+    background-color: #222;
+    color: #fff;
+    padding:  0.7em 1.2em;
+    text-decoration: none;
+    transition: .5s;
+    cursor: pointer;
+    border: none
+}
+/*Aqui quando, passar pelo botão muda a cor dele. */
+.btn:hover{
+    color:#ffbb33
+}
