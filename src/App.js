@@ -1,4 +1,4 @@
-import {Routes, Route, BrowserRouter, Link, } from 'react-router-dom'
+import {Routes, Route, BrowserRouter,} from 'react-router-dom'
 import Container from './components/layout/Container';
 import Company from './components/pages/Company';
 import Contact from './components/pages/Contact';

@@ -1,0 +1,16 @@
+.newproject_container{
+    width: 450px;
+    margin: 0auto;
+    padding: 3em;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.newproject_container h1 {
+    margin-bottom: 0.5em;
+}
+.newproject_container p {
+    color: #7b7b7b;
+
+}
