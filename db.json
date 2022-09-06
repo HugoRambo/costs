@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "name": "asdsadasa",
+      "budget": "574",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "asasa",
+      "budget": "354894",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "asdsada",
+      "budget": "544",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "65454545",
+      "budget": "65454615",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "category": {
+        "id": "4",
+        "name": "Planejament"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "HUGO RAMBO PADILHA",
+      "budget": "6000",
+      "category": {
+        "id": "4",
+        "name": "Planejament"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "asdasd",
+      "budget": "2342",
+      "cost": 0,
+      "services": [],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejament"
+    }
+  ]
+}

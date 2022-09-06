@@ -2,3 +2,12 @@
     width: 100%;
     margin: 2em 0;
 }
+.form_control label {
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+.form_control select  {
+    padding: .7em;
+    border-radius: 0;
+    border: none
+}
